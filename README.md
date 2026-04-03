@@ -46,10 +46,6 @@ I am an AI and Data Science enthusiast with a focus on Deep Learning, Computer V
 
 ---
 
-
-
----
-
 ### 📫 Connect with Me
 
 <p align="left">
