@@ -1,7 +1,7 @@
 # Steven Wijaya Lim's Profile
 
 ### 👨‍💻 About Me
-I am an AI and Data Science enthusiast with a focus on Deep Learning, Computer Vision, and Data Analytics. I am passionate about building computational models that bridge the gap between theoretical data and real-world applications. My experience includes developing projects in medical image classification, numerical modeling, and digital signal processing. Currently, I am further enhancing my technical skills by participating in the Coding Camp by Dicoding x DBS Foundation (Batch 2026).
+I am an Physics-Driven AI and Data Science enthusiast with a focus on Deep Learning, Computer Vision, and Data Analytics. I am passionate about building computational models that bridge the gap between theoretical data and real-world applications. My experience includes developing projects in medical image classification, numerical modeling, and digital signal processing. Currently, I am further enhancing my technical skills by participating in the Coding Camp by Dicoding x DBS Foundation (Batch 2026).
 
 ---
 ### 📂 Featured Projects
