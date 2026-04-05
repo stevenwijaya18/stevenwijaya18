@@ -8,10 +8,10 @@ I am an Physics-Driven AI and Data Science enthusiast with a focus on Deep Learn
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| [**Image-Based Brain Tumor Classification**](https://github.com/stevenwijaya18/Image-Based-Brain-Tumor-Classification) | `Deep Learning`, `Keras` | Medical classification using optimized DL models. |
+| [**Image-Based Brain Tumor Classification**](https://github.com/stevenwijaya18/Image-Based-Brain-Tumor-Classification) | `Deep Learning`, `PyTorch`, `Scikit-Learn` | Medical classification using optimized DL models. |
 | [**4th Runge-Kutta SIR Modelling**](https://github.com/stevenwijaya18/4th-Runge-Kutta-SIR-Modelling) | `MATLAB`, `Numerical Methods` | Epidemiological modeling using ODE solvers. |
 | [**Digital Multiband Equalizer**](https://github.com/stevenwijaya18/Digital-Multiband-Equalizer) | `MATLAB`, `DSP` | Implementation of real-time audio filtering. |
-| [**Free Fall Module with Arduino**](https://github.com/stevenwijaya18/Free-Fall-Module-with-Arduino) | `Python`, `C++`, `IoT` | IoT experimental module for real-time physics data. |
+
 
 ---
 
